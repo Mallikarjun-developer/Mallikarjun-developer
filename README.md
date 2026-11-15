@@ -14,6 +14,17 @@
 
 </div>
 
+<h2 align="center">🌌 My 3D GitHub Contributions</h2>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="My 3D GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+
 ---
 
 ## 👨‍💻 About me
